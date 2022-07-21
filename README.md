@@ -1,2 +1,4 @@
 # Kubernets
- øvelse
+
+øvelse
+K8 - kubectl (minicube)
